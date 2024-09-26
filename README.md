@@ -64,7 +64,8 @@
 </table>
 
 
----## Languages and Tools:
+---
+## Languages and Tools:
 
 <p align="center">
     <a href="https://developer.android.com" target="_blank" rel="noreferrer">
