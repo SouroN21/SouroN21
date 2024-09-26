@@ -1,17 +1,34 @@
+<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 <h1 align="center">Hi 👋, I'm Naveen Dasunpriya</h1>
 <h3 align="center">I am an IT undergraduate at SLIIT, dedicated to creating software and IoT solutions. I enjoy exploring emerging technologies and pushing the boundaries of innovation. Welcome to my GitHub profile! 😄</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=souron21&label=Profile%20views&color=0e75b6&style=flat" alt="souron21" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=souron21" alt="souron21" /></a> </p>
 
-- 🌱 I’m currently learning **ASP .NET**
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
+  
+- 🌱 I’m currently learning **MERN**
 
-- 💬🧑‍🎓 I’m an Undergraduate at **SLIIT**
+- 🧑‍🎓 I’m an Undergraduate at **SLIIT**
 
-- 📫 How to reach me **dasunpriyanaveen@gmail.com**
+- 💬 Ask me about **Java**
 
-- ⚡ Fun fact **Call me as SOURON**
+- 📫 How to reach me **kaveen.dinethma@gmail.com**
+  
+- ⚡ Fun fact **Call me as KD**
+
+</td>
+<td width="50%" align="center">
+
+  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+
+  
+  </td>
+</tr>
+</table>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
