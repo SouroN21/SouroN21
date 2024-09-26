@@ -36,7 +36,7 @@
 <h3 align="center">Connect with me:</h3>
 
 <p align="center">
-<a href="https://linkedin.com/in/naveen-dasunpriya-336159322" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naveen-dasunpriya-336159322" height="50" width="50" /></a>
+<a href="https://linkedin.com/in/naveen-dasunpriya-336159322" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naveen-dasunpriya-336159322" height="50" width="50" style="margin-left: 20px;"/></a>
 <a href="https://instagram.com/_.souron.__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.souron.__/" height="50" width="50" /></a>
 <a href="https://www.hackerrank.com/dasunpriyanaveen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dasunpriyanaveen" height="50" width="50" /></a>
 </p>
