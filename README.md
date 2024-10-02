@@ -11,7 +11,7 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 I’m currently learning **ASP .NET**
+- 🌱 I’m currently learning **NEXT JS**
 
 - 🧑‍🎓 I’m an Undergraduate at **SLIIT**
 
